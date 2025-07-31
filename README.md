@@ -28,7 +28,7 @@ E-mail: moxiu3310ud4@proton.me
 $ github-stats --user moxi-git
 ```
 
-![moxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=moxi-git&show_icons=true&theme=transparent)
+![moxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=moxi-git&show_icons=true&theme=transparent&count_private=true)
 
 ```bash
 $ github-langs --user moxi-git
@@ -40,4 +40,4 @@ $ github-langs --user moxi-git
 $ profile-views
 ```
 
-![](https://komarev.com/ghpvc/?username=moxi-git)
+<a href="https://u8views.com/github/moxi-git"><img src="https://u8views.com/api/v1/github/profiles/207268292/views/day-week-month-total-count.svg"></a>

@@ -28,13 +28,13 @@ E-mail: moxiu3310ud4@proton.me
 $ github-stats --user moxi-git
 ```
 
-![moxi-git's Stats](https://github-readme-stats.vercel.app/api?username=moxi-git\&theme=cobalt\&show_icons=true\&hide_border=true\&count_private=true)
+![moxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=moxi-git&show_icons=true&theme=transparent)
 
 ```bash
 $ github-langs --user moxi-git
 ```
 
-![moxi-git's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moxi-git\&theme=cobalt\&show_icons=true\&hide_border=true\&layout=compact)
+![moxi-git's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moxi-git&theme=transparent&show_icons=true&hide_border=false&layout=compact)
 
 ```bash
 $ profile-views

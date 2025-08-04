@@ -9,7 +9,7 @@ moxi-git@arch-linux
 
 ```bash
 λ cat about.txt
-i'm Moxiu and i do random shit on github maybe sometimes useful overall not a good dev lol. and yeah i use arch btw
+i'm Moxiu and i do random shit on github maybe sometimes useful overall not a good dev lol. and yeah i use gentoo btw
 ```
 
 ### Contact

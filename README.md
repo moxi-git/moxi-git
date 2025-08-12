@@ -30,7 +30,7 @@ E-mail: moxiu3310ud4@proton.me
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=moxi-git&show_icons=true&theme=radical"
+    srcset="https://github-readme-stats.vercel.app/api?username=moxi-git&show_icons=true&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
     <source

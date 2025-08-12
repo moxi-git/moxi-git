@@ -28,7 +28,17 @@ E-mail: moxiu3310ud4@proton.me
 λ github-stats --user moxi-git
 ```
 
-![moxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=moxi-git&show_icons=true&theme=transparent&count_private=true&hide_border=false)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=moxi-git&show_icons=true&theme=radical"
+    media="(prefers-color-scheme: dark)"
+  />
+    <source
+    srcset="https://github-readme-stats.vercel.app/api?username=moxi-git&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=moxi-git&show_icons=true" />
+</picture>
 
 ```bash
 λ github-langs --user moxi-git

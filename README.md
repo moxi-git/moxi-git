@@ -52,14 +52,14 @@ E-mail: moxiu3310ud4@proton.me
 
 <a href="https://u8views.com/github/moxi-git"><img src="https://u8views.com/api/v1/github/profiles/207268292/views/day-week-month-total-count.svg"></a>
 
-### Donate if you want to
-BTC {Taproot} = `bc1ptywgwk7y5lnnk0de3tcrc86vay6kg0z39k8sj4greldhp8k7682qs33ppf`
+### Donate if you want to (crypto only!)
+BTC (Bitcoin) {Taproot} = `bc1ptywgwk7y5lnnk0de3tcrc86vay6kg0z39k8sj4greldhp8k7682qs33ppf`
 
-ETH = 0x2d75fD2F32B206479Bb0b373Ed2E1eF8E0a0BDc3
+ETH (Ethereum) = `0x2d75fD2F32B206479Bb0b373Ed2E1eF8E0a0BDc3`
 
-SOL = CLGscHdJtajyJraJzzQG4otD6FvY9EKjLQetABjFw4eo
+SOL (Solana) = `CLGscHdJtajyJraJzzQG4otD6FvY9EKjLQetABjFw4eo`
 
 SUI =
-0x4d0bc44d178398ba6f1f23b977ce8ea32312aa3faf2ee24daf8048c9a0604330
+`0x4d0bc44d178398ba6f1f23b977ce8ea32312aa3faf2ee24daf8048c9a0604330`
 
-POL = 0x2d75fD2F32B206479Bb0b373Ed2E1eF8E0a0BDc3
+POL (Polygon) = `0x2d75fD2F32B206479Bb0b373Ed2E1eF8E0a0BDc3`

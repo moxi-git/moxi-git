@@ -2,14 +2,14 @@
 ## Hi :З
 
 λ whoami
-moxi-git@archwsl
+moxi-git@arch
 ````
 
 ### About
 
 ```bash
 λ cat about.txt
-i'm Moxiu and i do random shit on github maybe sometimes useful overall not a good dev lol. and yeah i use gentoo and arch in WSL btw
+i'm Moxiu and i do random shit on github maybe sometimes useful overall not a good dev lol. and yeah i use gentoo and arch linux btw
 ```
 
 ### Contact

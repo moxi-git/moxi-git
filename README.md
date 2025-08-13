@@ -2,7 +2,7 @@
 ## Hi :З
 
 λ whoami
-moxi-git@arch
+moxi-git@arch-linux
 ````
 
 ### About

@@ -1,14 +1,15 @@
 ## Hi :З
 
-C:\Users\Moxiu> whoami
-moxi-git@archwsl
+C:\Users\moxiu> whoami
+
+desktop-███████\moxiu
 
 ---
 
 ### About
 
 ```cmd
-C:\Users\Moxiu> type about.txt
+C:\Users\moxiu> type about.txt
 i'm Moxiu and i do random shit on github maybe sometimes useful overall not a good dev lol. and yeah i use gentoo and windows btw
 ```
 
@@ -17,7 +18,7 @@ i'm Moxiu and i do random shit on github maybe sometimes useful overall not a go
 ### Contact
 
 ```cmd
-C:\Users\Moxiu> type contact.txt
+C:\Users\moxiu> type contact.txt
 Telegram: https://t.me/moxiuu0
 E-mail: moxiu3310ud4@proton.me
 ```
@@ -27,7 +28,7 @@ E-mail: moxiu3310ud4@proton.me
 ### GitHub Stats
 
 ```cmd
-C:\Users\Moxiu> github-stats --user moxi-git
+C:\Users\moxiu> github-stats --user moxi-git
 ```
 
 <picture>
@@ -43,23 +44,23 @@ C:\Users\Moxiu> github-stats --user moxi-git
 </picture>
 
 ```cmd
-C:\Users\Moxiu> github-langs --user moxi-git
+C:\Users\moxiu> github-langs --user moxi-git
 ```
 
 ![moxi-git's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moxi-git&theme=transparent&show_icons=true&layout=compact)
 
 ```cmd
-C:\Users\Moxiu> profile-views --user moxi-git
+C:\Users\moxiu> profile-views --user moxi-git
 ```
 
 <a href="https://u8views.com/github/moxi-git"><img src="https://u8views.com/api/v1/github/profiles/207268292/views/day-week-month-total-count.svg"></a>
 
 ---
 
-### Donate if you want to (crypto only!)
+### Donate if you want to idk (crypto only!)
 
 ```cmd
-C:\Users\Moxiu> type donate.txt
+C:\Users\moxiu> type donate.txt
 BTC (Bitcoin) {Taproot} = bc1ptywgwk7y5lnnk0de3tcrc86vay6kg0z39k8sj4greldhp8k7682qs33ppf
 
 ETH (Ethereum) = 0x2d75fD2F32B206479Bb0b373Ed2E1eF8E0a0BDc3

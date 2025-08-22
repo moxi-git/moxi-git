@@ -2,23 +2,23 @@
 
 ~ λ whoami
 
-desktop-███████\moxiu
+moxi/archlinux
 
 ---
 
 ### About
 
-```powershell
-~ λ type about.txt
-i'm Moxiu and i do random shit on github maybe sometimes useful overall not a good dev lol. and yeah i use gentoo and windows btw
+```bash
+~ λ cat about.txt
+i'm Moxiu and i do random shit on github maybe sometimes useful overall not a good dev lol. and yeah i use gentoo and arch linux in main pc
 ```
 
 ---
 
 ### Contact
 
-```powershell
-~ λ type contact.txt
+```bash
+~ λ cat contact.txt
 Telegram: https://t.me/moxiuu0
 E-mail: moxiu3310ud4@proton.me
 ```
@@ -27,7 +27,7 @@ E-mail: moxiu3310ud4@proton.me
 
 ### GitHub Stats
 
-```powershell
+```bash
 ~ λ github-stats --user moxi-git
 ```
 
@@ -43,13 +43,13 @@ E-mail: moxiu3310ud4@proton.me
   <img src="https://github-readme-stats.vercel.app/api?username=moxi-git&show_icons=true" />
 </picture>
 
-```powershell
+```bash
 ~ λ github-langs --user moxi-git
 ```
 
 ![moxi-git's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moxi-git&theme=transparent&show_icons=true&layout=compact)
 
-```powershell
+```bash
 ~ λ profile-views --user moxi-git
 ```
 
@@ -59,7 +59,7 @@ E-mail: moxiu3310ud4@proton.me
 
 ### Donate if you want to idk (crypto only!)
 
-```powershell
+```bash
 ~ λ type donate.txt
 BTC (Bitcoin) {Taproot} = bc1ptywgwk7y5lnnk0de3tcrc86vay6kg0z39k8sj4greldhp8k7682qs33ppf
 

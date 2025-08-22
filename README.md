@@ -2,7 +2,7 @@
 
 ~ λ whoami
 
-moxi/archlinux
+moxiu
 
 ---
 
@@ -60,7 +60,7 @@ E-mail: moxiu3310ud4@proton.me
 ### Donate if you want to idk (crypto only!)
 
 ```bash
-~ λ type donate.txt
+~ λ cat donate.txt
 BTC (Bitcoin) {Taproot} = bc1ptywgwk7y5lnnk0de3tcrc86vay6kg0z39k8sj4greldhp8k7682qs33ppf
 
 ETH (Ethereum) = 0x2d75fD2F32B206479Bb0b373Ed2E1eF8E0a0BDc3

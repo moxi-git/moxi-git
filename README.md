@@ -10,7 +10,7 @@ moxiu
 
 ```bash
 ~ λ cat about.txt
-i'm Moxiu and i do random shit on github maybe sometimes useful overall not a good dev lol. and yeah i use gentoo and arch linux in main pc
+i'm Moxiu and i do random shit on github maybe sometimes useful overall not a good dev lol. and yeah i use gentoo and arch linux on main pc
 ```
 
 ---

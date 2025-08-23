@@ -21,6 +21,7 @@ i'm Moxiu and i do random shit on github maybe sometimes useful overall not a go
 ~ λ type contact.txt
 Telegram: https://t.me/moxiuu0
 E-mail: moxiu3310ud4@proton.me
+Session: 05fdd710c8fc7744ff5c8ece2383f280e9ce45af2402b8d978003f4de98d11dd05
 ```
 
 ---

@@ -8,8 +8,6 @@ Anyways here's my github stats:
 
 contact:
 
-Matrix: https://matrix.to/#/@moxiu7z:matrix.org
-
 TG: https://t.me/moxiuu0
 ```
 Email: moxiu3310ud4@proton.me

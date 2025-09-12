@@ -13,8 +13,6 @@ TG: https://t.me/moxiuu0
 Email: moxiu3310ud4@proton.me
 ```
 
-[Matrix] : https://matrix.to/#/@moxiusss:matrix.org
-
 XMPP Address:
 moxiu@07f.de
 

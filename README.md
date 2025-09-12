@@ -13,7 +13,4 @@ TG: https://t.me/moxiuu0
 Email: moxiu3310ud4@proton.me
 ```
 
-XMPP Address:
-moxiu@07f.de
-
 ![](https://count.getloli.com/@moxi-git?name=moxi-git&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)

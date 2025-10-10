@@ -1,4 +1,4 @@
-i dont really know what to say. but umm... i make stuff i guess? (very sometimes)
+i dont really know what to say. but umm... i make roms and android stuff. and sometimes more
 
 For more projects and stuff checkout my codeberg: [://codeberg/moxi](https://codeberg.org/moxi) 
 

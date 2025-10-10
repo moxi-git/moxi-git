@@ -7,6 +7,7 @@ Anyways here's my github stats:
 contact:
 
 TG: https://t.me/moxiuu0
+XDA: https://xdaforums.com/m/moxiu.13109844/
 ```
 Email: moxiu3310ud4@proton.me
 ```

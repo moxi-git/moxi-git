@@ -20,10 +20,10 @@
   * Some fuckass BenQ office monitor
 
 ### what tools i use?
-i use neovim with [majaahh](https://github.com/majaahh) configs
-i use kitty term
-shell: `fish` // `bash`
-WM: `hyprland`
+* i use neovim with [majaahh](https://github.com/majaahh) configs
+* i use kitty term
+* shell: `fish` // `bash`
+* WM: `hyprland`
 
 (i use arch btw)
 

@@ -25,7 +25,9 @@
 * shell: `fish` // `bash`
 * WM: `hyprland`
 
-(i use arch btw)
+(i use arch btw) | windows 11(pc)
+
+i use arch on thinkpad and windows on main pc now
 
 ### other tech
 * xbox 360 (jasper mobo)

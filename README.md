@@ -21,11 +21,9 @@
 
 ### what tools i use?
 * i use neovim with [majaahh](https://github.com/majaahh) configs
-* i use kitty term
-* shell: `fish` // `bash`
-* WM: `hyprland`
+* shell: `zsh` // `bash`
 
-(i use arch btw) | windows 11(pc)
+(i use arch btw) | windows 11(pc) | WSL (arch)
 
 i use arch on thinkpad and windows on main pc now
 

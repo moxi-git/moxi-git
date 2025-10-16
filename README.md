@@ -36,4 +36,3 @@
 ### contact // socials:
 * TG: https://t.me/moxiuu0
 * XDA: https://xdaforums.com/m/moxiu.13109844/
-* proton mail: `moxiu3310ud4@proton.me`
